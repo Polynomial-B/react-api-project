@@ -1,0 +1,45 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 1rem;
+  text-align: center;
+}
+
+h1 {
+  color: greenyellow;
+}
+
+.container {
+  display: flex;
+  /* width: 99vw;
+  height: 60vh; */
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.chapter-div {
+  border: 1px solid grey;
+  border-radius: 5px;
+  overflow: hidden;
+  width: 8em;
+  height: 12em;
+  color: grey;
+  margin: 0.3em;
+}
+
+
+#fellowship
+#two-towers
+#return-of-the-king
+
+
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
